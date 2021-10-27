@@ -277,7 +277,7 @@ display: inline;
         padding: 0 20px;
     }
     #photos{
-        column-count: 2;
+        column-count: 3;
     }
 }
 /* small screen */
